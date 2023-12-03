@@ -20,7 +20,7 @@
 - - pages
 - - Constants
 - Redux Dosya Yapısı
-- - Reducers klasörü
+- - Reducers
 - - Actions
 - - Store Dosyası
 
