@@ -6,7 +6,6 @@
 - @reduxjs/toolkit
 - react-router-dom
 - react-leaflet
-- leaflet
 - react-paginate
 
 # Kaynaklar
