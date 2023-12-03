@@ -5,7 +5,7 @@
 - react-redux
 - @reduxjs/toolkit
 - react-router-dom
-- react-leaflet(Harita)
+- react-leaflet
 - leaflet
 - react-paginate
 
